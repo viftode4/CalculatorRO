@@ -1,0 +1,3 @@
+F:/C++/CalculatorRO/cmake-build-debug/CMakeFiles/CalculatorRO.dir
+F:/C++/CalculatorRO/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/C++/CalculatorRO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
