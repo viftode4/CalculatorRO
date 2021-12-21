@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640005674 source:c:\users\codre\onedrive\desktop\final\robert\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
