@@ -68,15 +68,15 @@ include CMakeFiles/CalculatorRO.dir/flags.make
 CMakeFiles/CalculatorRO.dir/Robert/main.cpp.obj: CMakeFiles/CalculatorRO.dir/flags.make
 CMakeFiles/CalculatorRO.dir/Robert/main.cpp.obj: ../Robert/main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++\CalculatorRO\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CalculatorRO.dir/Robert/main.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CalculatorRO.dir\Robert\main.cpp.obj -c F:\C++\CalculatorRO\Robert\main.cpp
+	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CalculatorRO.dir\Robert\main.cpp.obj -c F:\C++\CalculatorRO\Robert\main.cpp
 
 CMakeFiles/CalculatorRO.dir/Robert/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CalculatorRO.dir/Robert/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++\CalculatorRO\Robert\main.cpp > CMakeFiles\CalculatorRO.dir\Robert\main.cpp.i
+	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++\CalculatorRO\Robert\main.cpp > CMakeFiles\CalculatorRO.dir\Robert\main.cpp.i
 
 CMakeFiles/CalculatorRO.dir/Robert/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CalculatorRO.dir/Robert/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++\CalculatorRO\Robert\main.cpp -o CMakeFiles\CalculatorRO.dir\Robert\main.cpp.s
+	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++\CalculatorRO\Robert\main.cpp -o CMakeFiles\CalculatorRO.dir\Robert\main.cpp.s
 
 # Object files for target CalculatorRO
 CalculatorRO_OBJECTS = \

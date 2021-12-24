@@ -13,6 +13,6 @@ fstream
 -
 cstring
 -
-algorithm
+bits/stdc++.h
 -
 
